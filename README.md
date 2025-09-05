@@ -13,7 +13,7 @@ run it using the `target` command:
 Run the implementation as a target for the JAM protocol conformance testing tool ("fuzzer"). For more information: https://github.com/davxy/jam-stuff/blob/main/fuzz-proto.
 
 Usage:
-  gossamer-jam target [flags]
+  go-jam target [flags]
 
 Flags:
   -h, --help            help for target
